@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Shapes\obj\Debug\net6.0\ref\Shapes.dll

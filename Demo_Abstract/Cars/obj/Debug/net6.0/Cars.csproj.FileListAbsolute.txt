@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\bin\Debug\net6.0\Cars.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\bin\Debug\net6.0\Cars.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\bin\Debug\net6.0\Cars.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\bin\Debug\net6.0\Cars.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\obj\Debug\net6.0\Cars.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\obj\Debug\net6.0\Cars.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\obj\Debug\net6.0\refint\Cars.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\obj\Debug\net6.0\Cars.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Cars\obj\Debug\net6.0\ref\Cars.dll

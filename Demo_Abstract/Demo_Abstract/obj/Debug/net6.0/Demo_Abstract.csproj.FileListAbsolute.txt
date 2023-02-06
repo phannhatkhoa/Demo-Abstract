@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\bin\Debug\net6.0\Demo_Abstract.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\bin\Debug\net6.0\Demo_Abstract.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\bin\Debug\net6.0\Demo_Abstract.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\bin\Debug\net6.0\Demo_Abstract.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\bin\Debug\net6.0\Demo_Abstract.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\obj\Debug\net6.0\Demo_Abstract.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\obj\Debug\net6.0\Demo_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\obj\Debug\net6.0\Demo_Abstract.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\obj\Debug\net6.0\Demo_Abstract.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\obj\Debug\net6.0\Demo_Abstract.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\obj\Debug\net6.0\Demo_Abstract.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\obj\Debug\net6.0\refint\Demo_Abstract.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\obj\Debug\net6.0\Demo_Abstract.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\obj\Debug\net6.0\Demo_Abstract.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Demo_Abstract\obj\Debug\net6.0\ref\Demo_Abstract.dll
