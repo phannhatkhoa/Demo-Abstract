@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Citizen citizen = new Citizen("Khoa", 20);
+
+            Console.WriteLine("Name: " + citizen.Name);
+            Console.WriteLine("Age: " + citizen.Age);
+
+
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\bin\Debug\net6.0\Interface Person.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\bin\Debug\net6.0\Interface Person.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\bin\Debug\net6.0\Interface Person.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\bin\Debug\net6.0\Interface Person.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\bin\Debug\net6.0\Interface Person.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\obj\Debug\net6.0\Interface Person.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\obj\Debug\net6.0\Interface Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\obj\Debug\net6.0\Interface Person.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\obj\Debug\net6.0\Interface Person.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\obj\Debug\net6.0\Interface Person.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\obj\Debug\net6.0\Interface Person.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\obj\Debug\net6.0\refint\Interface Person.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\obj\Debug\net6.0\Interface Person.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\obj\Debug\net6.0\Interface Person.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Demo-Abstract\Demo_Abstract\Interface Person\obj\Debug\net6.0\ref\Interface Person.dll
